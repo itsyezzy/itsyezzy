@@ -1,0 +1,12 @@
+{
+  "name": "bunny-stats-hunter",
+  "version": "1.0.0",
+  "description": "Bot que atualiza o README com estilo Bunny de Blue Lock",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
