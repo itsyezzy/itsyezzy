@@ -10,17 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: 📥 Checkout do repo
+        uses: actions/checkout@v4
+        
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
-      - run: npm install
-      - run: node src/index.js
+          node-version: '22'
+          
+      - name: 📦 Instalar dependências
+        run: npm install
+        
+      - name: 🐰 Rodar Bunny Hunter
+        run: node src/index.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
+          
+      - name: 📤 Commit e Push
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🐰 Caça diária atualizada"
           commit_user_name: "Bunny Hunter Bot"
-          commit_user_email: "equipeyezzy@outlook.com"
+          commit_user_email: "bunny@blue-lock.com"
+          commit_author: "Bunny Hunter Bot <bunny@blue-lock.com>"
