@@ -1,7 +1,7 @@
 #  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🐰 Bunny's Hunter
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/AgMGKF4pKioAAAAd/bunny-iglesias-bunny-iglesias-edit.gif" width="300" />
+  <img src="https://media1.tenor.com/m/AgMGKF4pKioAAAAd/bunny-iglesias-bunny-iglesias-edit.gif" width="450" style="border-radius: 12px;" />
 </p>
 
 > *"Seu streak: 34 dias. Não pare. Bunny não para NUNCA."*
