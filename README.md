@@ -1,4 +1,4 @@
-#  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🐰 Bunny Hunter
+#  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🐰 Bunny's Hunter
 
 <p align="center">
   <img src="https://media1.tenor.com/m/AgMGKF4pKioAAAAd/bunny-iglesias-bunny-iglesias-edit.gif" width="300" />
