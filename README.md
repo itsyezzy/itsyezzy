@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**itsyezzy/itsyezzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐰 Bunny Hunter
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://tenor.com/btAbX3BSyer.gif" width="300" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Seu streak: 34 dias. Não pare. Bunny não para NUNCA."*
+
+---
+
+## 📊 Estatísticas de Caça
+
+| Métrica | Valor |
+|---------|-------|
+| 🏹 Commits (último ano) | 34 |
+| 🔥 PRs abertos | 0 |
+| 🐛 Issues fechadas | 0 |
+| 💻 Linguagem favorita | JavaScript |
+
+---
+
+## 📈 Gráfico de Caça
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyezzy&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyezzy&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🎯 Meta do Dia
+
+```
+"Codar até o sol nascer. Ou até Bunny se cansar.
+E Bunny NUNCA se cansa."
+```
+
+---
+
+<div align="center">
+  <sub>
+    🐰 *Última caça: 08/08/2026, 05:53:21* <br>
+    *Bunny está sempre vigiando. 👁️‍🗨️*
+  </sub>
+</div>
+  
