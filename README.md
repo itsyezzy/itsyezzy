@@ -5,7 +5,7 @@
   <img src="https://tenor.com/kR6UDCXNEY.gif" width="300" />
 </p>
 
-> *"0 PRs abertos. O time treme. Bunny está vigiando."*
+> *"Seus commits são fracos. Eu rastreio até seu café da manhã. 🐰"*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 09/08/2026, 05:36:28* <br>
+    🐰 *Última caça: 10/08/2026, 06:14:46* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
