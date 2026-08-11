@@ -5,7 +5,7 @@
   <img src="https://tenor.com/kR6UDCXNEY.gif" width="300" />
 </p>
 
-> *"Seus commits são fracos. Eu rastreio até seu café da manhã. 🐰"*
+> *"Seu streak: 40 dias. Não pare. Bunny não para NUNCA."*
 
 ---
 
@@ -13,7 +13,7 @@
 
 | Métrica | Valor |
 |---------|-------|
-| 🏹 Commits (último ano) | 39 |
+| 🏹 Commits (último ano) | 40 |
 | 🔥 PRs abertos | 0 |
 | 🐛 Issues fechadas | 0 |
 | 💻 Linguagem favorita | JavaScript |
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 10/08/2026, 06:14:46* <br>
+    🐰 *Última caça: 11/08/2026, 05:48:59* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
