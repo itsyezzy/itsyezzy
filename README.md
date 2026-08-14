@@ -2,10 +2,10 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/kR6UDCXNEY.gif" width="300" />
+  <img src="https://tenor.com/btAbX3BSyer.gif" width="300" />
 </p>
 
-> *"Bunny vê tudo. Bunny sabe tudo. Seu próximo commit será PERFEITO."*
+> *"Seu streak: 40 dias. Não pare. Bunny não para NUNCA."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 13/08/2026, 06:07:08* <br>
+    🐰 *Última caça: 14/08/2026, 06:03:15* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
