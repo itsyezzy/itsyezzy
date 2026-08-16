@@ -2,7 +2,7 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/btAbX3BSyer.gif" width="300" />
+  <img src="assets/bunny-iglesias-bunny-iglesias-edit.gif" width="300" />
 </p>
 
 > *"Seus commits são fracos. Eu rastreio até seu café da manhã. 🐰"*
