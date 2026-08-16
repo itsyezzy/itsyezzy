@@ -22,9 +22,9 @@
 
 ## 📈 Gráfico de Caça
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyezzy&show_icons=true&theme=dark&hide_border=true)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=itsyezzy&show_icons=true&theme=dark&hide_border=true](https://github-stats-extended.vercel.app/api?username=itsyezzy&...))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyezzy&layout=compact&theme=dark&hide_border=true)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=itsyezzy&layout=compact&theme=dark&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs/?username=itsyezzy&...))
 
 ---
 
@@ -32,7 +32,7 @@
 
 ```
 "Codar até o sol nascer. Ou até Bunny se cansar.
-E Bunny NUNCA se cansa."
+E Bunny NUNCA se cansa. Que foi Sae? Não acompanhou o passo do coelho?"
 ```
 
 ---
