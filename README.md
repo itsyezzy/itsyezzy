@@ -22,9 +22,9 @@
 
 ## 📈 Gráfico de Caça
 
-![GitHub stats]([https://github-readme-stats.vercel.app/api?username=itsyezzy&show_icons=true&theme=dark&hide_border=true](https://github-stats-extended.vercel.app/api?username=itsyezzy&...))
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=itsyezzy&...)
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=itsyezzy&layout=compact&theme=dark&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs/?username=itsyezzy&...))
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=itsyezzy&...)
 
 ---
 
