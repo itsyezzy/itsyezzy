@@ -2,10 +2,10 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="assets/bunny-iglesias-bunny-iglesias-edit.gif" width="100%" />
+  <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
 </p>
 
-> *"Seus commits são fracos. Eu rastreio até seu café da manhã. 🐰"*
+> *"Hoje você codou 2h. Ainda é pouco. Quero ver SANGUE!"*
 
 ---
 
@@ -13,7 +13,7 @@
 
 | Métrica | Valor |
 |---------|-------|
-| 🏹 Commits (último ano) | 40 |
+| 🏹 Commits (último ano) | 46 |
 | 🔥 PRs abertos | 0 |
 | 🐛 Issues fechadas | 0 |
 | 💻 Linguagem favorita | JavaScript |
@@ -22,9 +22,9 @@
 
 ## 📈 Gráfico de Caça
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=itsyezzy&...)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyezzy&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=itsyezzy&...)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyezzy&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -32,14 +32,14 @@
 
 ```
 "Codar até o sol nascer. Ou até Bunny se cansar.
-E Bunny NUNCA se cansa. Que foi Sae? Não acompanhou o passo do coelho?"
+E Bunny NUNCA se cansa."
 ```
 
 ---
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 16/08/2026, 05:22:26* <br>
+    🐰 *Última caça: 17/08/2026, 05:37:15* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
