@@ -2,10 +2,10 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/kR6UDCXNEY.gif" width="300" />
+  <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
 </p>
 
-> *"Seus commits são fracos. Eu rastreio até seu café da manhã. 🐰"*
+> *"Seus PRs são ridículos. Bunny vai te ensinar o que é código."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 19/08/2026, 05:31:45* <br>
+    🐰 *Última caça: 20/08/2026, 05:32:01* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
