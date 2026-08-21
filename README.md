@@ -5,7 +5,7 @@
   <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
 </p>
 
-> *"Seus PRs são ridículos. Bunny vai te ensinar o que é código."*
+> *"Bunny vê tudo. Bunny sabe tudo. Seu próximo commit será PERFEITO."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 20/08/2026, 05:32:01* <br>
+    🐰 *Última caça: 21/08/2026, 05:34:37* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
