@@ -5,7 +5,7 @@
   <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
 </p>
 
-> *"Bunny vê tudo. Bunny sabe tudo. Seu próximo commit será PERFEITO."*
+> *"Seu streak: 61 dias. Não pare. Bunny não para NUNCA."*
 
 ---
 
@@ -13,7 +13,7 @@
 
 | Métrica | Valor |
 |---------|-------|
-| 🏹 Commits (último ano) | 46 |
+| 🏹 Commits (último ano) | 61 |
 | 🔥 PRs abertos | 0 |
 | 🐛 Issues fechadas | 0 |
 | 💻 Linguagem favorita | JavaScript |
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 21/08/2026, 05:34:37* <br>
+    🐰 *Última caça: 22/08/2026, 05:22:50* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
