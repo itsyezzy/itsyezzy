@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 22/08/2026, 05:22:50* <br>
+    🐰 *Última caça: 23/08/2026, 05:23:16* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
