@@ -2,10 +2,10 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
+  <img src="https://tenor.com/btAbX3BSyer.gif" width="300" />
 </p>
 
-> *"Seu streak: 61 dias. Não pare. Bunny não para NUNCA."*
+> *"Issues fechadas: 0. Cada uma é uma presa abatida."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 23/08/2026, 05:23:16* <br>
+    🐰 *Última caça: 24/08/2026, 05:41:41* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
