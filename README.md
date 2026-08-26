@@ -5,7 +5,7 @@
   <img src="https://tenor.com/btAbX3BSyer.gif" width="300" />
 </p>
 
-> *"Seu streak: 61 dias. Não pare. Bunny não para NUNCA."*
+> *"Issues fechadas: 0. Cada uma é uma presa abatida."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 25/08/2026, 05:36:04* <br>
+    🐰 *Última caça: 26/08/2026, 05:37:21* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
