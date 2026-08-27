@@ -2,10 +2,10 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/btAbX3BSyer.gif" width="300" />
+  <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
 </p>
 
-> *"Issues fechadas: 0. Cada uma é uma presa abatida."*
+> *"Hoje você codou 3h. Ainda é pouco. Quero ver SANGUE!"*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 26/08/2026, 05:37:21* <br>
+    🐰 *Última caça: 27/08/2026, 15:45:47* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
