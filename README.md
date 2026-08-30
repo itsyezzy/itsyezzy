@@ -2,10 +2,10 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
+  <img src="https://tenor.com/btAbX3BSyer.gif" width="300" />
 </p>
 
-> *"0 PRs abertos. O time treme. Bunny está vigiando."*
+> *"Você acha que codou muito hoje? Bunny já codou 3x mais. Acorde."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 29/08/2026, 10:33:15* <br>
+    🐰 *Última caça: 30/08/2026, 10:28:44* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
