@@ -2,10 +2,10 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
+  <img src="https://tenor.com/kR6UDCXNEY.gif" width="300" />
 </p>
 
-> *"Bunny vê tudo. Bunny sabe tudo. Seu próximo commit será PERFEITO."*
+> *"A linguagem do dia: JavaScript. Boa escolha. Mas pode ser melhor."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 01/09/2026, 10:00:00* <br>
+    🐰 *Última caça: 02/09/2026, 09:28:38* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
