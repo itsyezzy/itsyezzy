@@ -5,7 +5,7 @@
   <img src="https://tenor.com/kR6UDCXNEY.gif" width="300" />
 </p>
 
-> *"A linguagem do dia: JavaScript. Boa escolha. Mas pode ser melhor."*
+> *"Você acha que codou muito hoje? Bunny já codou 3x mais. Acorde."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 02/09/2026, 09:28:38* <br>
+    🐰 *Última caça: 03/09/2026, 09:31:05* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
